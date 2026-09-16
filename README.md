@@ -1,4 +1,4 @@
-# Scheduled Task Daily Health Report
+# Scheduled Task Daily Health Report Tool
 
 ## PowerShell Script
 
