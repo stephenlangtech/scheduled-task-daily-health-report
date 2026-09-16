@@ -1,5 +1,9 @@
 # Scheduled Task Daily Health Report Tool
 
+<p align="center">
+<img src="https://img.magnific.com/premium-vector/red-medical-heartbeat-line-vector-heart-shape-graphic-health-charity-concept_53876-111265.jpg?semt=ais_hybrid&amp;w=740&amp;q=80" jsaction="" class="sFlh5c FyHeAf YkEcKe" style="max-width: 740px; width: 169px; height: 169px; margin: 6.6px 0px;" alt="Heartbeat line forming Vectors - Download Free High-Quality Vectors |  Magnific (formerly Freepik)" jsname="kn3ccd">
+</p>  
+
 ## PowerShell Script
 
 [CLICK HERE FOR THE SCRIPT: TaskHealthReport.ps1 →](./TaskHealthReport.ps1)
