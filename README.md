@@ -1,5 +1,4 @@
 # Scheduled Task Daily Health Report
-# Scheduled Task Daily Health Report
 
 ## Prerequisites
 
