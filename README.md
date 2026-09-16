@@ -1,5 +1,8 @@
-# Scheduled Task Daily Health Report
+# Scheduled Task Daily Health Report Script
 
+## PowerShell Script
+
+[CLICK HERE FOR THE SCRIPT: TaskHealthReport.ps1 →](./TaskHealthReport.ps1)
 ## Prerequisites
 
 * Windows Server/Windows environment
